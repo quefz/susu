@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sadkov_LR4", "Sadkov_LR4.csproj", "{569C8E33-6BDE-40C4-911B-66F25102B6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569C8E33-6BDE-40C4-911B-66F25102B6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569C8E33-6BDE-40C4-911B-66F25102B6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569C8E33-6BDE-40C4-911B-66F25102B6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569C8E33-6BDE-40C4-911B-66F25102B6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06E12246-9AB1-4D47-8CD6-6F27C9D2EDFF}
+	EndGlobalSection
+EndGlobal
